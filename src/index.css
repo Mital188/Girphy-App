@@ -1,0 +1,17 @@
+body {
+    background-color:white;
+}
+.App {
+    margin: 5em auto;
+    width: 90%;
+}
+
+.Logo{
+    float: left;
+}
+
+@media only screen and (min-width: 1280px) {
+    .App {
+        width: 1140px;
+    }
+}
